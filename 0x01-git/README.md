@@ -1,2 +1,2 @@
 non empty README.md
-Done
+clear
